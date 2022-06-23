@@ -1,2 +1,2 @@
 # node-games
-Collection of nodejs games
+This is a collection of nodejs games
