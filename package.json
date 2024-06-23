@@ -2,12 +2,8 @@
   "name": "nodejs-games",
   "version": "1.0.0",
   "description": "Collection of nodejs games",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Gungadi",
-  "license": "ISC",
+  "author": "KarbitsCode",
+  "license": "",
   "dependencies": {
     "battleship-game": "^1.0.3",
     "command-line-pong": "^1.4.1",
