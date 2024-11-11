@@ -2,8 +2,13 @@
   "name": "nodejs-games",
   "version": "1.0.0",
   "description": "Collection of nodejs games",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KarbitsCode/nodejs-games.git"
+  },
   "author": "KarbitsCode",
   "license": "",
+  "private": true,
   "dependencies": {
     "battleship-game": "^1.0.3",
     "command-line-pong": "^1.4.1",
